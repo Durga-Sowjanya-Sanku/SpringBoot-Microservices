@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Ignore MySQL volume data
+volume-data/
+
+inventoryservice/volume-data/
+# Ignore all volume data
+inventoryservice/inventoryservice/volume-data/
+
+inventoryservice/docker/
+
+inventoryservice/inventoryservice/volume-data/mysql_keycloak_data/mysql.sock
