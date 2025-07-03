@@ -10,6 +10,8 @@ inventoryservice/inventoryservice/volume-data/
 
 inventoryservice/docker/
 
+inventoryservice/docker-compose.yml
+
 inventoryservice/inventoryservice/volume-data/mysql_keycloak_data/mysql.sock
 # Ignore all Docker and runtime volume data
 **/volume-data/
